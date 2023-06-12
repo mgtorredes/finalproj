@@ -1,0 +1,138 @@
+/* Navbar */
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+/* Jumbotron */
+.jumbotron {
+    background-image: url("https://source.unsplash.com/1600x900/?nature");
+    background-size: cover;
+    height: 600px;
+}
+
+.jumbotron h1 {
+    color: white;
+    font-size: 60px;
+    margin-top: 200px;
+}
+
+.jumbotron p {
+    color: white;
+    font-size: 30px;
+}
+
+.jumbotron a {
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+
+/* About Section */
+.about-section {
+    background-color: #f0f0f0;
+    padding: 50px;
+}
+
+.about-section h2 {
+    font-size: 40px;
+}
+
+.about-section p {
+    font-size: 20px;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.content {
+    margin-left: 20px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    color: navy;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.text {
+    font-size: 18px;
+    color: black;
+    text-align: justify;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.text ul {
+    list-style: disc;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.text li {
+    margin-bottom: 5px;
+}
+
+/* Project Section */
+.project-section {
+    padding: 50px;
+}
+
+.project-section h2 {
+    font-size: 40px;
+}
+
+.card {
+    width: 300px;
+    margin: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.card-title {
+    font-size: 25px;
+}
+
+.card-text {
+    font-size: 18px;
+}
+
+/* Contact Section */
+.contact-section {
+    background-color: #f0f0f0;
+    padding: 50px;
+}
+
+.contact-section h2 {
+    font-size: 40px;
+}
+
+.contact-section p {
+    font-size: 20px;
+}
+
+.contact-form {
+    width: 500px;
+    margin: auto;
+}
+
+.form-group label {
+    font-size: 18px;
+}
+
+.form-group input,
+textarea {
+    font-size: 18px;
+}
